@@ -5,5 +5,6 @@ namespace CardsApp
     public class Class1
     {
         /*Comment*/
+        /*another comment*/
     }
 }
